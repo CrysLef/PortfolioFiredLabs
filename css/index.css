@@ -1,8 +1,8 @@
 header {
-    background-color: #2D9CDB;
+    background-color: #05c46b;
     display: flex;
     justify-content: space-between;
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid #1e272e;
     padding: 10px 20px;
 }
 
@@ -26,21 +26,24 @@ a::before {
     width: 10px;
     height: 10px;
     margin-right: 10px;
-    background-color: #9B51E0;
+    background-color: #575fcf;
 }
 
 #button {
     display: inline-block;
-    box-shadow: 5px 5px 0px #000;
-    background-color: #9B51E0;
+    background-color: #575fcf;
+    box-shadow: 5px 5px 0px #1e272e;
     height: 60px;
     line-height: 60px;
     padding-left: 20px;
     padding-right: 20px;
+    transition: transform 300ms cubic-bezier(0.46, 0.54, 0.82, 2.29);;
 }
 
 #button:hover {
-    background-color: #7931B0;
+    background-color: #3c40c6;
+    box-shadow: 7px 7px 1px #1e272e;
+    transform: scale(1.03);
 }
 
 img {
