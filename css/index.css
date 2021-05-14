@@ -10,6 +10,11 @@ nav {
     text-align: right;
 }
 
+img {
+    width: 60px;
+    height: 60px;
+}
+
 a {
     display: inline-flex;
     align-items: center;
@@ -37,7 +42,8 @@ a::before {
     line-height: 60px;
     padding-left: 20px;
     padding-right: 20px;
-    transition: transform 300ms cubic-bezier(0.46, 0.54, 0.82, 2.29);;
+    transition: transform 300ms cubic-bezier(0.46, 0.54, 0.82, 2.29);
+    margin: 0px;
 }
 
 #button:hover {
@@ -45,8 +51,39 @@ a::before {
     box-shadow: 7px 7px 1px #1e272e;
     transform: scale(1.03);
 }
+div {
+    width: 627px;
+    height: 184px;
+    background-color: #485460;
+    margin-left: 91px;
+    margin-top: 116px;
+    box-shadow: 10px 10px 0px #000;
+}
 
-img {
-    width: 60px;
-    height: 60px;
+h1 {
+    color:#575fcf;
+    text-shadow: 4px 4px 0px #000;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0px;
+    display: flex;
+    position: absolute;
+    top: 238px;
+    left: 241px;
+    font-weight: 400;
+}
+
+h2 {
+    color: #FFF;
+    text-shadow: 4px 4px 0px #000;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+    display: flex;
+    margin: 0px;
+    position: absolute;
+    left: 131px;
+    top: 306px;
+    font-weight: 400;
 }
