@@ -1,0 +1,17 @@
+.actions {
+    display: inline-flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.actions::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    background-color: #575fcf;
+}
