@@ -4,9 +4,5 @@
     justify-content: space-between;
     border-bottom: 10px solid #1e272e;
     padding: 10px 20px;
-}
-
-.header .logo {
-    width: 60px;
-    height: 60px;
+    align-items: center;
 }
