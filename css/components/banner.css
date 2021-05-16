@@ -5,6 +5,7 @@
     border-bottom: 10px solid #1e272e;
     background-image: url('../../assets/img/clouds.png');
     padding-top: 115px;
+    background-repeat: repeat-x;
     padding-left: 90px;
 }
 
@@ -12,7 +13,6 @@
     display: flex;
     flex-direction: column;
     width: 770px;
-    margin-right: 0;
 }
 
 .banner .box {
