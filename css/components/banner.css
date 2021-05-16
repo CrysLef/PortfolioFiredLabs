@@ -1,0 +1,25 @@
+.banner {
+    background-color: #0fbcf9;
+    box-sizing: border-box;
+    height: 800px;
+    border-bottom: 10px solid #1e272e;
+    background-image: url('../../assets/img/clouds.png');
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 770px;
+    margin-right: 0;
+}
+
+.banner .box {
+    margin-bottom: 40px;
+}
+
+.banner .navigation {
+    justify-content: space-around;
+    display: flex;
+}

@@ -15,3 +15,7 @@
     margin-right: 10px;
     background-color: #575fcf;
 }
+
+.actions:hover {
+    color: #575fcf;
+}

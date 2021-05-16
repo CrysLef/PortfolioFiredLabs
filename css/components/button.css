@@ -4,7 +4,7 @@
     box-shadow: 5px 5px 0px #1e272e;
     height: 60px;
     line-height: 60px;
-   padding: 0 20px;
+    padding: 0 20px;
     transition: transform 300ms cubic-bezier(0.46, 0.54, 0.82, 2.29);
     margin: 0px;
     color: #FFF;
