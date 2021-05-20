@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     background-color: #0fbcf9;
     display: flex;
     justify-content: center;
@@ -9,17 +9,17 @@
     align-items: center;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 770px;
 }
 
-.banner .box {
+.main-banner .title-box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     justify-content: space-around;
     display: flex;
 }
