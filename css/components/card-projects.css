@@ -1,0 +1,13 @@
+.card-projects {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards {
+    box-shadow: 10px 10px 0px #FFF;
+}
+
+.cards:hover {
+    box-shadow: none;
+    cursor: pointer;
+}
