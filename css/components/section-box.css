@@ -21,3 +21,8 @@
 .section-box.-projects .main-title {
     margin-bottom: 50px;
 }
+
+.section-box.-about {
+    background-color: #05c46b;
+    border-bottom: 10px solid #FFF;
+}
