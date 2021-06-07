@@ -10,3 +10,7 @@ button {
     border: none;
     font-family: inherit;
 }
+
+html {
+    scroll-behavior: smooth;
+}
