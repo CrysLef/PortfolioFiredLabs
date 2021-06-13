@@ -17,3 +17,8 @@
     box-shadow: 7px 7px 1px #1e272e;
     transform: scale(1.03);
 }
+
+
+.button-pattern.-full {
+    width: 100%;
+}
