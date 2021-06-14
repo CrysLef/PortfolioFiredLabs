@@ -27,3 +27,7 @@
     border-bottom: 10px solid #FFF;
     padding-bottom: 50px;
 }
+
+.section-box.-about .main-title {
+    margin-bottom: 65px;
+}
