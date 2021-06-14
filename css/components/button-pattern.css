@@ -22,3 +22,8 @@
 .button-pattern.-full {
     width: 100%;
 }
+
+.button-pattern.-full:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
