@@ -3,8 +3,8 @@
     display: flex;
     justify-content: center;
     box-sizing: border-box;
-    height: 800px;
-    border-bottom: 10px solid #1e272e;
+    height: 80rem;
+    border-bottom: 1rem solid #1e272e;
     background-image: url('../../assets/img/clouds.png');
     align-items: center;
 }
@@ -12,11 +12,11 @@
 .main-banner .wrapper {
     display: flex;
     flex-direction: column;
-    width: 770px;
+    width: 77rem;
 }
 
 .main-banner .title-box {
-    margin-bottom: 40px;
+    margin-bottom: 4rem;
 }
 
 .main-banner .navigation {

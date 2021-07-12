@@ -1,9 +1,9 @@
 .my-description {
     color: #FFF;
-    font-size: 30px;
+    font-size: 3rem;
     font-weight: 300;
     line-height: 1.3;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 8rem;
+    padding-right: 8rem;
     text-align: justify;
 }

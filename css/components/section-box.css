@@ -1,33 +1,33 @@
 .section-box {
-    padding-top: 50px;
+    padding-top: 5rem;
 }
 
 .section-box.-skill {
     background-color: #575fcf;
-    padding-bottom: 100px;
-    border-bottom: 10px solid #05c46b;
+    padding-bottom: 10rem;
+    border-bottom: 1rem solid #05c46b;
 }
 
 .section-box.-skill .main-title {
-    margin-bottom: 60px;
+    margin-bottom: 6rem;
 }
 
 .section-box.-projects {
-    padding-bottom: 100px;
+    padding-bottom: 10rem;
     background-color: #1e272e;
-    border-bottom: 10px solid #575fcf;
+    border-bottom: 1rem solid #575fcf;
 }
 
 .section-box.-projects .main-title {
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
 }
 
 .section-box.-about {
     background-color: #05c46b;
-    border-bottom: 10px solid #FFF;
-    padding-bottom: 50px;
+    border-bottom: 1rem solid #FFF;
+    padding-bottom: 5rem;
 }
 
 .section-box.-about .main-title {
-    margin-bottom: 65px;
+    margin-bottom: 6.5rem;
 }

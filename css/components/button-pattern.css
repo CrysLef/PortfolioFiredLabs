@@ -1,20 +1,20 @@
 .button-pattern {
     display: inline-block;
     background-color: #575fcf;
-    box-shadow: 5px 5px 0px #1e272e;
-    height: 60px;
-    line-height: 60px;
-    padding: 0 20px;
+    box-shadow: .5rem .5rem 0 #1e272e;
+    height: 6rem;
+    line-height: 6rem;
+    padding: 0 2rem;
     transition: transform 300ms cubic-bezier(0.46, 0.54, 0.82, 2.29);
-    margin: 0px;
+    margin: 0;
     color: #FFF;
-    font-size: 20px;
+    font-size: 2rem;
     text-decoration: none;
 }
 
 .button-pattern:hover {
     background-color: #3c40c6;
-    box-shadow: 7px 7px 1px #1e272e;
+    box-shadow: .7rem .7rem .1rem #1e272e;
     transform: scale(1.03);
 }
 

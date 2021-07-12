@@ -2,10 +2,10 @@
     background-color: #000;
     display: flex;
     justify-content: center;
-    padding: 28px 0;
+    padding: 2.8rem 0;
 }
 
 .social {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
